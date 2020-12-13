@@ -1,0 +1,13 @@
+C:\Users\1255968\Desktop\prog\C#\PredicatePartTwo\PredicatePartTwo\bin\Debug\netcoreapp3.1\PredicatePartTwo.exe
+C:\Users\1255968\Desktop\prog\C#\PredicatePartTwo\PredicatePartTwo\bin\Debug\netcoreapp3.1\PredicatePartTwo.deps.json
+C:\Users\1255968\Desktop\prog\C#\PredicatePartTwo\PredicatePartTwo\bin\Debug\netcoreapp3.1\PredicatePartTwo.runtimeconfig.json
+C:\Users\1255968\Desktop\prog\C#\PredicatePartTwo\PredicatePartTwo\bin\Debug\netcoreapp3.1\PredicatePartTwo.runtimeconfig.dev.json
+C:\Users\1255968\Desktop\prog\C#\PredicatePartTwo\PredicatePartTwo\bin\Debug\netcoreapp3.1\PredicatePartTwo.dll
+C:\Users\1255968\Desktop\prog\C#\PredicatePartTwo\PredicatePartTwo\bin\Debug\netcoreapp3.1\PredicatePartTwo.pdb
+C:\Users\1255968\Desktop\prog\C#\PredicatePartTwo\PredicatePartTwo\obj\Debug\netcoreapp3.1\PredicatePartTwo.csprojAssemblyReference.cache
+C:\Users\1255968\Desktop\prog\C#\PredicatePartTwo\PredicatePartTwo\obj\Debug\netcoreapp3.1\PredicatePartTwo.AssemblyInfoInputs.cache
+C:\Users\1255968\Desktop\prog\C#\PredicatePartTwo\PredicatePartTwo\obj\Debug\netcoreapp3.1\PredicatePartTwo.AssemblyInfo.cs
+C:\Users\1255968\Desktop\prog\C#\PredicatePartTwo\PredicatePartTwo\obj\Debug\netcoreapp3.1\PredicatePartTwo.csproj.CoreCompileInputs.cache
+C:\Users\1255968\Desktop\prog\C#\PredicatePartTwo\PredicatePartTwo\obj\Debug\netcoreapp3.1\PredicatePartTwo.dll
+C:\Users\1255968\Desktop\prog\C#\PredicatePartTwo\PredicatePartTwo\obj\Debug\netcoreapp3.1\PredicatePartTwo.pdb
+C:\Users\1255968\Desktop\prog\C#\PredicatePartTwo\PredicatePartTwo\obj\Debug\netcoreapp3.1\PredicatePartTwo.genruntimeconfig.cache
