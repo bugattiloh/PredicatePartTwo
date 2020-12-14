@@ -104,12 +104,23 @@ namespace PredicatePartTwo
 
         public static void Task4()
         {
-           //TODO
+           var comparer = Comparer<int>.Create((i, j) =>
+            {
+                if (i % 2 == 0 && j % 2 == 1) return -1;
+                if (j % 2 == 0 && i % 2 == 1) return 1;
+                return i.CompareTo(j);
+            });
+
+            var line = Console.ReadLine();
+            var strings = line.Split(' ');
+            var numbers = Parser(strings);
+            Array.Sort(numbers, comparer);
+            Console.WriteLine(string.Join(" ", numbers));
         }
 
         static void Main(string[] args)
         {
-            Task1();
+            Task2();
         }
     }
 }
